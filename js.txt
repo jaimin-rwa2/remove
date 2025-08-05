@@ -1,0 +1,126 @@
+1. What are the different data types present in javascript?
+2. Explain Hoisting in javascript.
+3. Why do we use the word “debugger” in javascript?
+4. Difference between “ == “ and “ === “ operators.
+5. Difference between var and let keyword in javascript.
+6. Explain Implicit Type Coercion in javascript.
+7. Is javascript a statically typed or a dynamically typed language?
+8. What is NaN property in JavaScript?
+9. Explain passed by value and passed by reference.
+10. What is an Immediately Invoked Function in JavaScript?
+11. What do you mean by strict mode in javascript and characteristics of javascript strict-mode?
+12. Explain Higher Order Functions in javascript.
+13. Explain “this” keyword.
+14. What do you mean by Self Invoking Functions?
+15. Explain call(), apply() and, bind() methods.
+16. What is the difference between exec () and test () methods in javascript?
+17. What is currying in JavaScript?
+18. What are some advantages of using External JavaScript?
+19. Explain Scope and Scope Chain in javascript.
+20. Explain Closures in JavaScript.
+21. Mention some advantages of javascript.
+22. What are object prototypes?
+23. What are callbacks?								
+24. What are the types of errors in javascript?
+25. What is memoization?
+26. What is recursion in a programming language?
+27. What is the use of a constructor function in javascript?
+28. What is DOM?
+29. Which method is used to retrieve a character from a certain index?
+30. What do you mean by BOM?
+31. What is the distinction between client-side and server-side JavaScript?
+32. What are arrow functions?
+33. What do mean by prototype design pattern?
+34. Differences between declaring variables using var, let and const.
+35. What is the rest parameter and spread operator?
+36. In JavaScript, how many different methods can you make an object?
+37. What is the use of promises in javascript?
+38. What are classes in javascript?
+39. What are generator functions?
+40. Explain WeakSet in javascript.
+41. Why do we use callbacks?
+42. Explain WeakMap in javascript.
+43. What is Object Destructuring?
+44. Difference between prototypal and classical inheritance
+45. What is a Temporal Dead Zone?
+46. What do you mean by JavaScript Design Patterns?
+47. Is JavaScript a pass-by-reference or pass-by-value language?
+48. Difference between Async/Await and Generators usage to achieve the same functionality.
+49. What are the primitive data types in JavaScript?
+50. What is the role of deferred scripts in JavaScript?
+51. What has to be done in order to put Lexical Scoping into practice?
+52. Write a function that performs binary search on a sorted array.
+53. Implement a function that returns an updated array with r right rotations on an array of integers a .
+54. Write the code for dynamically inserting new components.
+55. Write the code given If two strings are anagrams of one another, then return true.
+56. Write the code to find the vowels
+57. In JavaScript, how do you turn an Object into an Array []?
+58. What is different between Map and Filter? (Write any three differences)
+59. What is Difference between for..in and for..of Loopg (Write 4 different)
+60. Write short note on Clouser concept with one example?
+61. What is Exception handling and list all the error used in exception handling?
+62. Write syntax of nested if else, else if ladder and switch case?
+63. What is Promises? Explain
+64. What is Async and Await Explain?
+65. Explain FindIndex, indexOf, splice, slice, push, pop function with syntax and one small
+program?
+66. Explain substr, substring and slice in string function?
+67. What is OOPs? Write Benefit of Oops and features of Benefits?
+68. What is JavaScript? Explain?
+69. Where to use JavaScript? Explain?
+70. What are the different data types present in javascript?
+71. What is Operators? How many types of operator? Why we used it?
+72. What is Conditional Statements? Why we used it?
+73. Write a syntax of If else and explain it?
+74. Write a Syntax of nested if else and explain it?
+75. Explain Hoisting in javascript 1
+76. Difference between var and let keyword in javascript.
+77. Difference between const and var keyword in javascript
+78. What is Functions? How many types of function? Why we used it?
+79. Is javascript a statically typed or a dynamically typed language?
+80. What is NaN property in JavaScript?
+81. What is an Immediately Invoked Function in JavaScript?
+82. Explain call(), apply() and, bind() methods.
+83. What is the difference between exec () and test () methods in javascript?
+84. What is argument in functions?
+85. What is return type in function?
+86. What is arrow function?
+87. What is closure concept in function?
+88. What is nested function?
+89. What is array? Why we used it?
+90. Explain splice, slice, sort, includes, map, filter, some and every function in array?
+91. What is string? Why we used it?
+92. Explain substr, substring, toUppercase, toLowercase, charAt?
+93. What is object? Why we used it? How to used object?
+94. Different between Es6 and Es5?
+95. Which Es is currently running in chrome?
+96. What is verification and validation differentiate?
+97. What is class? Where to used class?
+98. What is object oriented programming?
+99. What is object in class?
+100. What is constructor and why we used constructor?
+101. How many types of constructor?
+102. What is inheritance? How many types of inheritance in javascript?
+103. What is super keyword in javascript?
+104. What is this keyword in javascript?
+105. Mention some advantages of javascript.
+106. What are the types of errors in javascript?
+107. What is recursion in a programming language?
+108. What is DOM and BOM. Differentiate DOM and BOM.
+109. What Is typeof operator in javascript?
+110. What is equality in JavaScript ?
+111. Explain Scope in javascript?
+112. What is callback function?
+113. What is definition of higher-order functions?
+114. What is iteration? What is meaning of Iteration?
+115. What is setTimeout and setInterval? Explain it.
+116. What is json? Why we used json.
+117. What is localStorage in javascript?
+118. What is API? Why we used API?
+119. What is Promise? Why we used promise?
+120. What is async and await in javascript?
+121. What is callback function in javascript explain with example?
+Debouncing implementation in JavaScript
+
+
+
