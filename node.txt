@@ -1,0 +1,118 @@
+1. What is Node.js? Where can you use it?
+2. Why use Node.js?
+3. How does Node.js work?
+4. Why is Node.js Single-threaded?
+5. If Node.js is single-threaded, then how does it handle concurrency?
+6. Explain callback in Node.js.
+7. What are the advantages of using promises instead of callbacks?
+8. How would you define the term I/O?
+9. How is Node.js most frequently used?
+10. Explain the difference between frontend and backend development?
+11. What is NPM?
+12. What are the modules in Node.js?
+13. What is the purpose of the module .Exports?
+14. What is the difference between Angular and Node.js?
+15. Which database is more popularly used with Node.js?
+16. What are some of the most commonly used libraries in Node.js?
+17. What are the pros and cons of Node.js?
+18. What is the command used to import external libraries?
+19. What does event-driven programming mean?
+20. What is an Event Loop in Node.js?
+21. What is an EventEmitter in Node.js?
+22. What are the two types of API functions in Node.js?
+23. What is the package.json file?
+24. How would you use a URL module in Node.js?
+25. What is the Express.js package?
+26. How do you create a simple Express.js application?
+27. What are streams in Node.js?
+28. How do you install, update, and delete a dependency?
+29. How do you create a simple server in Node.js that returns Hello World?
+30. Explain asynchronous and non-blocking APIs in Node.js
+31. How do we implement async in Node.js?
+32. What is a callback function in Node.js?
+33. What is REPL in Node.js?
+34. What is the control flow function?
+35. How does control flow manage the function calls?
+36. What is the difference between fork() and spawn() methods in Node.js?
+37. What is the buffer class in Node.js?
+38. What is piping in Node.js?
+39. What are some of the flags used in the read/write operations in files?
+40. How do you open a file in Node.js?
+41. What is callback hell?
+42. What is a reactor pattern in Node.js?
+43. What is a test pyramid in Node.js?
+
+44. For Node.js, why does Google use the V8 engine?
+45. Describe Node.js exit codes.
+46. Explain the concept of middleware in Node.js.
+47. What are the different types of HTTP requests?
+48. How would you connect a MongoDB database to Node.js?
+49. What is the purpose of NODE_ENV?
+50. List the various Node.js timing features.
+51. What is WASI, and why is it being introduced?
+52. What is a first-class function in Javascript?
+53. How do you manage packages in your Node.Js project?
+54. How is Node.js better than other frameworks?
+55. List down the two arguments that async. First, does the queue take as input?
+56. What is the purpose of the module.exports?
+57. What is the difference between JavaScript and Node.js?
+58. What is the difference between asynchronous and synchronous functions?
+59. What are the asynchronous tasks that should occur in an event loop?
+60. What is the order of execution in control flow statements?
+61. Are there any disadvantages to using Node.js?
+62. What is the difference between Node.js and Ajax?
+63. What is the advantage of using Node.js?
+64. Does Node run on Windows?
+65. Can you access DOM in Node?
+66. Why is Node.JS quickly gaining attention from JAVA programmers?
+67. What are the Challenges with Node.js?
+68. What is "non-blocking" in node.js?
+69. How does Node.js overcome the problem of blocking I/O operations?
+70. How can we use async await in node.js?
+71. Why should you separate the Express app and server?
+72. Explain the concept of stub in Node.js.
+73. What is the framework that is used majorly in Node.js today?
+74. What are the security implementations that are present in Node.js?
+75. What is Libuv?
+76. What are global objects in Node.js?
+77. Why is assert used in Node.js?
+78. Why is ExpressJS used?
+79. What is the use of the connect module in Node.js?
+80. What's the difference between 'front-end' and 'back-end' development?
+81. What are LTS releases of Node.js?
+82. What do you understand about ESLint?
+83. How does Node.js handle the child threads?
+84. What is an Event Emitter in Node.js?
+85. How to Enhance Node.js Performance through Clustering?
+86. What is a thread pool, and which library handles it in Node.js?
+87. How to measure the duration of async operations?
+88. How to measure the performance of async operations?
+89. What are the types of streams available in Node.js?
+90. What is meant by tracing in Node.js?
+91. Where is package.json used in Node.js?
+92. What is the difference between readFile and create Read Stream in Node.js?
+93. What is the use of the crypto module in Node.js?
+94. What is a passport in Node.js?
+95. How to get information about a file in Node.js?
+96. How does the DNS lookup function work in Node.js?
+
+97. What is the difference between setImmediate() and setTimeout()?
+98. Does Node.js provide any Debugger?
+99. Do you have any past Node.js work experience?
+100. Do you have any experience working in the same industry as ours?
+101. Do you have any certification to boost your candidature for this Node.js role?
+102. What Is Express JS?
+103. Why Express JS?
+104. Features of Express JS
+105. Advantages of Using Express With Node.js
+106. Limitations of Express JS
+107. Companies That Are Using Express JS
+108. Installation and the First Program
+109. What is JSON Web Token?
+110. Advantages of Node.js authentication with JWT
+111. 6. JSON Web Token Authentication with Node.js
+112. 5. Node.js MySQL
+113. 4. Node.js MongoDB
+114. What Is JSON Web Token?
+115. JSON Web Token Structure
+116. JWT Use Cases
